@@ -1,2 +1,4 @@
 mejor status archivo 2
 nueva rama 'rama_b'
+tercer cambio pero individual mio 
+cuarto cambio espero lograr esto alv
